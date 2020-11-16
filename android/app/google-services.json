@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "873058875007",
+    "firebase_url": "https://chatting-991f6.firebaseio.com",
+    "project_id": "chatting-991f6",
+    "storage_bucket": "chatting-991f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873058875007:android:5feafa7a17cf0bd3a8f14a",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873058875007-oehgd4e6bgbpqlc6d2dfuqejo0lfi9fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Iu0L2AlbZ5_eDaeozYnSPLKqE3XzXno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873058875007-oehgd4e6bgbpqlc6d2dfuqejo0lfi9fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873058875007:android:4893cfe02e760553a8f14a",
+        "android_client_info": {
+          "package_name": "com.vyzyz.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873058875007-oehgd4e6bgbpqlc6d2dfuqejo0lfi9fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Iu0L2AlbZ5_eDaeozYnSPLKqE3XzXno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873058875007-oehgd4e6bgbpqlc6d2dfuqejo0lfi9fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
